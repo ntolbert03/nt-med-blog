@@ -11,6 +11,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'normalize-rails'
 gem 'materialize-sass' 
+gem 'jquery-turbolinks' 
 
 
 group :development, :test do
