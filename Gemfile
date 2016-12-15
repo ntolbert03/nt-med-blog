@@ -12,7 +12,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'normalize-rails'
 gem 'materialize-sass' 
 gem 'jquery-turbolinks' 
-
+gem 'devise'
 
 group :development, :test do
   gem 'byebug'
