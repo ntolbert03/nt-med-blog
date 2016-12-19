@@ -13,6 +13,7 @@ gem 'normalize-rails'
 gem 'materialize-sass' 
 gem 'jquery-turbolinks' 
 gem 'devise'
+gem 'pundit'
 
 group :development, :test do
   gem "better_errors"
