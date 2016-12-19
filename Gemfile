@@ -14,6 +14,9 @@ gem 'materialize-sass'
 gem 'jquery-turbolinks' 
 gem 'devise'
 gem 'pundit'
+gem 'paperclip' 
+gem 'ckeditor' 
+gem 'nokogiri'
 
 group :development, :test do
   gem "better_errors"
