@@ -6,6 +6,6 @@ class User < ActiveRecord::Base
 
   # Relationships
   has_many :blogs, dependent: :destroy
-
+  has_many :votes, dependent: :destroy
 
 end
